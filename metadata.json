@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Turnos de Hospital",
+  "description": "Un sistema profesional para gestionar roles y turnos de médicos en un hospital. Incluye una vista de calendario, asignación de turnos y gestión de doctores.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
